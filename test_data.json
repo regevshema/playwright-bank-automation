@@ -1,0 +1,16 @@
+{
+    "users": {
+        "admin": {
+            "username": "admin",
+            "password": "admin123",
+            "deposit_amount": 1000.0,
+            "transfer_amount": 500,
+            "withdraw_amount": 2000.0,
+            "insufficient_withdraw_amount": 200000.0
+        },
+        "viewer": {
+            "username": "viewer",
+            "password": "viewer123"
+        }
+    }
+}
